@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="text-center py-3">Stream Infomation <a href="http://twitch.insanitymeetshh.net" target="_blank"><i class="fa fa-twitch"></i></a></h1>
+                    <h1 class="text-center py-3">Stream Information <a href="http://twitch.insanitymeetshh.net" target="_blank"><i class="fa fa-twitch"></i></a></h1>
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="tab" href="#games" role="tab" aria-controls="games" aria-selected="true">Stream Games</a>
@@ -207,7 +207,9 @@
                         </div>
                         <div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
                             Live Saturday 10 a.m. CET<br/>
-                            Live Samstag 10:00 Uhr MEZ
+                            Live Samstag 10:00 Uhr MEZ<br/>
+                            <br/>
+                            <a href="https://beta.nightbot.tv/t/insanitymeetshh/commands" target="_blank">Stream Commands</a>
                         </div>
                     </div>
                 </div>
