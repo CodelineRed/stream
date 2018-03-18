@@ -20,7 +20,7 @@
                     <h1 class="text-center py-3">Stream Information <a href="http://twitch.insanitymeetshh.net" target="_blank"><i class="fa fa-twitch"></i></a></h1>
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#games" role="tab" aria-controls="games" aria-selected="true">Stream Games</a>
+                            <a class="nav-link active" data-toggle="tab" href="#stream-contet" role="tab" aria-controls="stream-contet" aria-selected="true">Content</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" id="home-tab" data-toggle="tab" href="#hardware" role="tab" aria-controls="home" aria-selected="false">Hardware</a>
@@ -30,7 +30,10 @@
                         </li>
                     </ul>
                     <div class="tab-content pt-3">
-                        <div class="tab-pane fade show active" id="games" role="tabpanel" aria-labelledby="games-tab">
+                        <div class="tab-pane fade show active" id="stream-contet" role="tabpanel" aria-labelledby="games-tab">
+                            <p>
+                                Bisher gezeigt / Previous shown
+                            </p>
                             <div class="table-responsive">
                                 <table class="table table-striped table-dark">
                                     <thead>
@@ -42,9 +45,19 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>Adobe Photoshop</td>
+                                            <td>Graphic</td>
+                                            <td><a href="http://www.adobe.com/Photoshop" target="_blank">Adobe</a></td>
+                                        </tr>
+                                        <tr>
                                             <td>Astroneer</td>
                                             <td>Open World, Space, Exploration</td>
                                             <td><a href="http://store.steampowered.com/app/361420/ASTRONEER/" target="_blank">Steam</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>FlatOut 2</td>
+                                            <td>Racing, Destruction</td>
+                                            <td><a href="http://store.steampowered.com/app/2990/FlatOut_2/" target="_blank">Steam</a></td>
                                         </tr>
                                         <tr>
                                             <td>Grand Theft Auto V (Single Player)</td>
@@ -77,6 +90,11 @@
                                             <td><a href="http://store.steampowered.com/app/219150/Hotline_Miami/" target="_blank">Steam</a></td>
                                         </tr>
                                         <tr>
+                                            <td>Hotline Miami 2</td>
+                                            <td>Top Down, Action, Shooter</td>
+                                            <td><a href="http://store.steampowered.com/app/274170/Hotline_Miami_2_Wrong_Number/" target="_blank">Steam</a></td>
+                                        </tr>
+                                        <tr>
                                             <td>Human: Fall Flat</td>
                                             <td>Puzzle</td>
                                             <td><a href="http://store.steampowered.com/app/477160/Human_Fall_Flat/" target="_blank">Steam</a></td>
@@ -90,6 +108,11 @@
                                             <td>Metro: Last Light Redux</td>
                                             <td>Action, Shooter</td>
                                             <td><a href="http://store.steampowered.com/app/287390/Metro_Last_Light_Redux/" target="_blank">Steam</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>One More Line</td>
+                                            <td>Casual, Arcarde</td>
+                                            <td><a href="http://store.steampowered.com/app/356890/One_More_Line/" target="_blank">Steam</a></td>
                                         </tr>
                                         <tr>
                                             <td>PLAYERUNKNOWN'S BATTLEGROUNDS</td>
@@ -147,24 +170,9 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Trust 20378-02</td>
-                                            <td>Microphone</td>
-                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Trust 20378-02'); ?>" target="_blank">Google</a></td>
-                                        </tr>
-                                        <tr>
-                                            <td>Microsoft LifeCam Studio</td>
-                                            <td>HD Webcam</td>
-                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Microsoft LifeCam Studio'); ?>" target="_blank">Google</a></td>
-                                        </tr>
-                                        <tr>
-                                            <td>Intel Core i7-7700K</td>
-                                            <td>CPU</td>
-                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Intel Core i7-7700K'); ?>" target="_blank">Google</a></td>
-                                        </tr>
-                                        <tr>
-                                            <td>Palit GTX 1070 8GB</td>
-                                            <td>Graphics Card</td>
-                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Palit GTX 1070'); ?>" target="_blank">Google</a></td>
+                                            <td>Acer K242HYL</td>
+                                            <td>Monitor</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Acer K242HYL'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
                                             <td>Crucial 16GB</td>
@@ -172,14 +180,49 @@
                                             <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Crucial 16GB Ram'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
+                                            <td>Intel Core i7-7700K</td>
+                                            <td>CPU</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Intel Core i7-7700K'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>LG W2343T-PF</td>
+                                            <td>Monitor</td>
+                                            <td><a href="https://www.google.de/search?q=<?php echo urlencode('LG W2343T-PF'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Microsoft LifeCam Studio</td>
+                                            <td>HD Webcam</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Microsoft LifeCam Studio'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Medion Eclipse II (MD 86480)</td>
+                                            <td>Keyboard</td>
+                                            <td><a href="https://www.google.de/search?q=<?php echo urlencode('Medion Eclipse II'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
                                             <td>MSI Z270A Pro</td>
                                             <td>Mainboard</td>
                                             <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('MSI Z270A Pro'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
+                                            <td>Palit GTX 1070 8GB</td>
+                                            <td>Graphics Card</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Palit GTX 1070'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
                                             <td>SanDisk 120GB</td>
                                             <td>SSD</td>
                                             <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('SanDisk 120GB SSD'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Trust 20378-02</td>
+                                            <td>Microphone</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Trust 20378-02'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Trust WMS-121 (20722)</td>
+                                            <td>Mouse</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Trust WMS-121'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
                                             <td>Toshiba 1TB</td>
@@ -191,23 +234,13 @@
                                             <td>TV / Monitor</td>
                                             <td><a href="https://www.google.de/search?q=<?php echo urlencode('Toshiba 32TL838'); ?>" target="_blank">Google</a></td>
                                         </tr>
-                                        <tr>
-                                            <td>Acer K242HYL</td>
-                                            <td>Monitor</td>
-                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Acer K242HYL'); ?>" target="_blank">Google</a></td>
-                                        </tr>
-                                        <tr>
-                                            <td>LG W2343T-PF</td>
-                                            <td>Monitor</td>
-                                            <td><a href="https://www.google.de/search?q=<?php echo urlencode('LG W2343T-PF'); ?>" target="_blank">Google</a></td>
-                                        </tr>
                                     </tbody>
                                 </table>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
-                            Live Saturday 10 a.m. CET<br/>
-                            Live Samstag 10:00 Uhr MEZ<br/>
+                            Live Saturday or Sunday 10 a.m. CET<br/>
+                            Live Samstag oder Sonntag 10:00 Uhr MEZ<br/>
                             <br/>
                             <a href="https://beta.nightbot.tv/t/insanitymeetshh/commands" target="_blank">Stream Commands</a>
                         </div>
