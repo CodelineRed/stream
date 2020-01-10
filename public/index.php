@@ -130,6 +130,11 @@
                                             <td><a href="https://www.sketchup.com/download/all" target="_blank">PC / Mac</a></td>
                                         </tr>
                                         <tr>
+                                            <td>Star Citizen</td>
+                                            <td>MMOG, Space Simulation, Ego Shooter</td>
+                                            <td><a href="http://sc.imhh.me" target="_blank">PC</a> (Reflink; You get 5k Credits by registration)</td>
+                                        </tr>
+                                        <tr>
                                             <td>SUPERHOT</td>
                                             <td>Shooter</td>
                                             <td><a href="http://store.steampowered.com/app/322500/SUPERHOT/" target="_blank">Steam</a></td>
@@ -175,14 +180,19 @@
                                             <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Acer K242HYL'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
-                                            <td>Crucial 16GB</td>
-                                            <td>RAM</td>
-                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Crucial 16GB Ram'); ?>" target="_blank">Google</a></td>
+                                            <td>HyperX 2x16GB</td>
+                                            <td>DDR4-2666 RAM</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('HyperX 32GB DDR4-2666'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
                                             <td>Intel Core i7-7700K</td>
                                             <td>CPU</td>
                                             <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Intel Core i7-7700K'); ?>" target="_blank">Google</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>INTEL SSDPEKNW512G8H</td>
+                                            <td>M.2 SSD</td>
+                                            <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('INTEL SSDPEKNW512G8H'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
                                             <td>LG W2343T-PF</td>
@@ -195,9 +205,9 @@
                                             <td><a href="https://www.google.de/search?tbm=shop&q=<?php echo urlencode('Microsoft LifeCam Studio'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
-                                            <td>Medion Eclipse II (MD 86480)</td>
+                                            <td>Lioncast LK300 RGB Kailh Red</td>
                                             <td>Keyboard</td>
-                                            <td><a href="https://www.google.de/search?q=<?php echo urlencode('Medion Eclipse II'); ?>" target="_blank">Google</a></td>
+                                            <td><a href="https://www.google.de/search?q=<?php echo urlencode('Lioncast LK300 RGB Kailh Red'); ?>" target="_blank">Google</a></td>
                                         </tr>
                                         <tr>
                                             <td>MSI Z270A Pro</td>
