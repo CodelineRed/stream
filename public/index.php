@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Stream - InsanityMeetsHH</title>
-        <base href="https://stream.insanitymeetshh.net/">
+        <title>Stream - CodelineRed</title>
+        <base href="https://stream.codelinered.net/">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="theme-color" content="#212121">
+        <meta name="theme-color" content="#ff2525">
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="text-center py-3">Stream Information <a href="http://twitch.insanitymeetshh.net" target="_blank"><i class="fa fa-twitch"></i></a></h1>
+                    <h1 class="text-center py-3">Stream Information <a href="http://ttv.clred.me" target="_blank"><i class="fa fa-twitch"></i></a></h1>
                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="tab" href="#stream-contet" role="tab" aria-controls="stream-contet" aria-selected="true">Content</a>
@@ -249,8 +249,8 @@
                             </div>
                         </div>
                         <div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
-                            Live Saturday or Sunday 10 a.m. CET<br/>
-                            Live Samstag oder Sonntag 10:00 Uhr MEZ<br/>
+                            <s>Live Saturday or Sunday 10 a.m. CET</s><br/>
+                            <s>Live Samstag oder Sonntag 10:00 Uhr MEZ</s><br/>
                             <br/>
                             <a href="https://beta.nightbot.tv/t/insanitymeetshh/commands" target="_blank">Stream Commands</a>
                         </div>
